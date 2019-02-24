@@ -7,3 +7,4 @@ sixth line.
 Check Working space!
 creating a new branch is quick!
 AND simple.
+master test.
